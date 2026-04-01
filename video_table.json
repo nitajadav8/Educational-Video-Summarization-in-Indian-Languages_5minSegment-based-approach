@@ -1,2 +1,27 @@
 "row_to_json"
-"{""video_id"":1,""video_title"":""1_Continuous and Comprehensive Evalution__oOHqccBLQZs"",""file_path"":""D:\\Video_Lecture\\English\\Common\\1_Continuous and Comprehensive Evalution__oOHqccBLQZs.mp4"",""duration"":1829.082268,""fps"":25,""resolution"":""640x360"",""video_language"":""English"",""lecture_subject"":""Common"",""status"":""new"",""ai_native_sum"":""This lecture introduces Continuous and Comprehensive Evaluation (CCE) as essential for holistic personality development, covering cognitive, affective, and psychomotor dimensions,. It explains the need for evaluation to certify learners, identify difficulties, and provide remediation,. The \""continuous\"" aspect involves regular testing, feedback, and retesting to fix learning gaps,. The \""comprehensive\"" aspect covers both scholastic (subject-specific) and co-scholastic areas (life skills, values, sports),. It distinguishes between formative evaluation (for improving learning) and summative evaluation (for grading), emphasizing that CCE aims to nurture student abilities to their maximum potential,."",""ai_en_sum"":""This lecture introduces Continuous and Comprehensive Evaluation (CCE) as essential for holistic personality development, covering cognitive, affective, and psychomotor dimensions,. It explains the need for evaluation to certify learners, identify difficulties, and provide remediation,. The \""continuous\"" aspect involves regular testing, feedback, and retesting to fix learning gaps,. The \""comprehensive\"" aspect covers both scholastic (subject-specific) and co-scholastic areas (life skills, values, sports),. It distinguishes between formative evaluation (for improving learning) and summative evaluation (for grading), emphasizing that CCE aims to nurture student abilities to their maximum potential,."",""hn_native_sum"":null,""hn_en_sum"":null,""created_at"":""2026-02-17T19:16:33.023082""}"
+"{"
+"video_id"":1,"
+"video_title"":""1_Continuous and Comprehensive Evalution__oOHqccBLQZs"",
+""file_path"":""D:\\Video_Lecture\\English\\Common\\1_Continuous and Comprehensive Evalution__oOHqccBLQZs.mp4"",
+""duration"":1829.082268,
+""fps"":25,
+""resolution"":""640x360"",
+""video_language"":""English"",
+""lecture_subject"":""Common"",
+""status"":""new"",
+""ai_native_sum"":""This lecture introduces Continuous and Comprehensive Evaluation (CCE) as essential for holistic personality development,
+                   covering cognitive, affective, and psychomotor dimensions,. It explains the need for evaluation to certify learners,
+                   identify difficulties, and provide remediation,. The \""continuous\"" aspect involves regular testing, feedback, and 
+                   retesting to fix learning gaps,. The \""comprehensive\"" aspect covers both scholastic (subject-specific) and co-scholastic areas
+                  (life skills, values, sports),. It distinguishes between formative evaluation (for improving learning) and summative evaluation (for grading), 
+                  emphasizing that CCE aims to nurture student abilities to their maximum potential,."",
+""ai_en_sum"":""This lecture introduces Continuous and Comprehensive Evaluation (CCE) as essential for holistic personality development,
+                covering cognitive, affective, and psychomotor dimensions,. It explains the need for evaluation to certify learners, identify difficulties,
+                and provide remediation,. The \""continuous\"" aspect involves regular testing, feedback, and retesting to fix learning gaps,.
+                The \""comprehensive\"" aspect covers both scholastic (subject-specific) and co-scholastic areas (life skills, values, sports),.
+                It distinguishes between formative evaluation (for improving learning) and summative evaluation (for grading), emphasizing that CCE aims to
+                nurture student abilities to their maximum potential,."",
+""hn_native_sum"":null,
+""hn_en_sum"":null,
+""created_at"":""2026-02-17T19:16:33.023082"
+"}"
